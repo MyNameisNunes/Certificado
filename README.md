@@ -1,7 +1,7 @@
-# Olá 
+# Olá 😄 
 ## Seja bem vindo ao meu perfil 👋👋👋
 
-## Sou iniciante na programação, então atualmente estou aprendendo algumas linguagens na faculdade e por fora como:
+## Sou iniciante na programação, então atualmente estou aprendendo algumas linguagens na faculdade e por fora como:📚📚📚
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 
@@ -14,7 +14,7 @@
 - [Curso IPV6 - 2021](./Sage.pdf)  
 - [Atividade de extensão - 2024](./CertificadoEscolar.pdf)
 
-## Contatos:
+## Minhas redes sociais 👇👇👇
 <div>
 <a href="https://www.instagram.com/souapenasothiago/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:t.nuu2001@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
