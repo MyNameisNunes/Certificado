@@ -13,3 +13,10 @@
 
 - [Curso IPV6 - 2021](./Sage.pdf)  
 - [Atividade de extensão - 2024](./CertificadoEscolar.pdf)
+
+## Contatos:
+<div>
+<a href="https://www.instagram.com/souapenasothiago/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
+<a href = "mailto:t.nuu2001@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-nunes-30082000/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
